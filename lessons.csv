@@ -1,4 +1,12 @@
-path,title,order,section,description
-"/intro","Introduction","1A","Intro","Introduction about my self"
-"/page-2","Page 2","2A","The Second Section","The second page"
-"/page-3","Page 3","2B","The Second Section","The third page"
+path,title,order,description,section
+"/intro","Introduction","1A","Introduction about my self","Intro"
+"/why-react-is-awesome","Why React is Awesome","2A","Why React is Awesome","Intro"
+"/pure-react","Pure React","3A","pure react","Without React Decoration"
+"/components","Components","4A","components in react","Without React Decoration"
+"/npm","NPM","5A","node package manager","JS Tools"
+"/create-react-app","Kick off with create-react-app","6A","Kick off with create-react-app","JS Tools"
+"/prettier","Prettier","7A","An opinionated code formatter; Supports many languages; Integrates with most editors;","JS Tools"
+"/jsx","JSX","8A","JSX","Core React Concepts"
+"/component-composition","Component Composition","9A","Component Composition","Core React Concepts"
+"/react-dev-tools","React Dev Tools","10A","React Dev Tools","Core React Concepts"
+"/react-state-and-lifecycles","State and Lifecycle Methods with React","11A","State and Lifecycle Methods with React","React Capabilities"

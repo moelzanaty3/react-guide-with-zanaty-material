@@ -4,8 +4,9 @@ import Helmet from 'react-helmet'
 import { graphql, StaticQuery } from 'gatsby'
 
 import 'bootstrap/dist/css/bootstrap.css'
-import 'prismjs/themes/prism-solarizedlight.css'
-import 'code-mirror-themes/themes/monokai.css'
+import 'prismjs/themes/prism.css'
+import 'code-mirror-themes/themes/github.css'
+import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
 import './index.css'
 
 // import jpg from "../../static/posterframe.jpg";

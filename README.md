@@ -10,8 +10,9 @@
    - See [docs here](https://next.gatsbyjs.org/docs/) if you need help
 1. `git clone https://github.com/mohammedelzanaty/react-guide-with-zanaty-material.git`
 1. `cd react-guide-with-zanaty-material`
-1. `npm run dev`
-1. Open http://localhost:8000 in your browser
+4.  `npm i`
+5. `npm run dev`
+6. Open http://localhost:8000 in your browser
 
 
 ## [Access Material Online](https://mohammedelzanaty.github.io/react-guide-with-zanaty-material/)
